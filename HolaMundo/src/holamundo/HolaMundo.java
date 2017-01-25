@@ -15,11 +15,21 @@ public class HolaMundo {
         System.out.println("Prueba de concepto.");
         System.out.println("Versión 1.3 del proyecto.");
         System.out.println("Versión 1.4 del proyecto.");
+
+        System.out.println("Versión 1.5 error?.");
+
         System.out.println("Versión 1.5 del proyecto.");
+
         
         System.out.println("Azul");
         System.out.println("Rojo");
         System.out.println("Verde");
+
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
+
+
     }
     
 }
