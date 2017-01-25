@@ -13,6 +13,7 @@ public class HolaMundo {
         
         System.out.println("Hola mundo.");
         System.out.println("Prueba de concepto.");
+        System.out.println("Versión 1.3 del proyecto.");
     }
     
 }
