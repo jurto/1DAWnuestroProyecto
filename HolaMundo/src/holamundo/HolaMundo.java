@@ -19,6 +19,9 @@ public class HolaMundo {
         System.out.println("Versión 1.5 error?.");
 
         System.out.println("Versión 1.5 del proyecto.");
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
 
     }
     
